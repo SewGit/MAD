@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Creamy creation</string> 
+    <string name="cart">Cart</string>
+    <string name="pay">Pay</string>
+    <string name="buy_now">Buy now</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="_1kg">1Kg</string>
+    <string name="_500g">500g</string>
+    <string name="payment">Payment</string>
+    <string name="card_pin">Card Pin :</string>
+    <string name="enter_card_pin">Enter card pin</string>
+    <string name="place_order">Place order</string>
+    <string name="total_cost">Total cost :</string>
+    <string name="customer_details">Customer details</string>
+    <string name="payment_details">Payment details</string>
+    <string name="card_numder">Card numder :</string>
+    <string name="customer_name">Customer name :</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_card_number">Enter card number</string>
+    <string name="expire_date">Expire date :</string>
+    <string name="enter_date">Enter date</string>
+</resources>

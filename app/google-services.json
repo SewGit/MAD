@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055093878939",
+    "project_id": "creamyapp-451fc",
+    "storage_bucket": "creamyapp-451fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055093878939:android:1db53444efe57a3eafd63e",
+        "android_client_info": {
+          "package_name": "com.example.cakeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055093878939-gstutq3qih5ssg0pesuagvj7pjnh5nqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ2Jc09DgK5wmBjkkL4pJqTmTKfuD9090"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055093878939-gstutq3qih5ssg0pesuagvj7pjnh5nqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
